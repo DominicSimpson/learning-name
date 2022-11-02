@@ -13,8 +13,11 @@
 ---
 
 **02/11/2022**
-###### Interesting to see the contrast between my own tests in the Learn Integration Testing workshop, on the index.test.js page, on the sample calculator provided, and contrastingly those of the solutions. Some examples of my own:
+###### It's interesting to see the contrast between my own tests in the Learn Integration Testing workshop, on the index.test.js page, on the sample calculator provided, and contrastingly those of the solutions. Some examples of my own:
 
 ![testing_screenshot](https://user-images.githubusercontent.com/52511353/199527071-63878c82-4017-4ac4-a3cb-c30ed7dff14a.png)
+
+###### And here's from the solutions provided:
+
 
 ---
