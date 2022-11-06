@@ -23,3 +23,10 @@ Some examples of my own:
 ![testing_screenshot(2)](https://user-images.githubusercontent.com/52511353/199529746-ac00cd21-0fbb-4856-bee4-77dce8dab309.png)
 
 ---
+
+06/11/2022: I'm confused as to why adding a second true clause makes this pass on Execute Program?
+```function allTrue(values) {
+  return values.reduce((acc, current) => acc && current, true);```
+}
+
+---
