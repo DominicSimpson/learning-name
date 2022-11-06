@@ -24,8 +24,10 @@ Some examples of my own:
 
 ---
 
-06/11/2022: I'm confused as to why adding a second true clause makes this pass on Execute Program? I have to use Reduce to write a function that returns true if all array elements are true.
+06/11/2022
+###### I'm confused as to why adding a second true clause makes this pass on Execute Program? I have to use Reduce to write a function that returns true if all array elements are true.
 ```function allTrue(values) {
-  return values.reduce((acc, current) => acc && current, true);```
+  return values.reduce((acc, current) => acc && current, true);
+  ```
 
 ---
