@@ -34,6 +34,14 @@ Some examples of my own:
 
 17/11/2022
 
-We [finished the Testing project](https://github.com/fac26/todo-derek-dominicS-georgia), involving constructing a To-Do list. I really struggled to incorporate the existing code with the TDD testing, though I did get close with the test question, "test("Can the user delete a task from the list?")". My hope is that I will eventually get used to incorporating TDD in my code simply from doing it so many times. 
+We [finished the Testing project](https://github.com/fac26/todo-derek-dominicS-georgia), involving constructing a To-Do list. I really struggled to incorporate the existing code with the TDD testing, though I did get close with the test question, "test("Can the user delete a task from the list?")". 
+
+![testingscreenshot](https://user-images.githubusercontent.com/52511353/202847013-70ffaca1-f3f2-48dc-8c99-dfd5e7d42b20.png)
+
+My hope is that I will eventually get used to incorporating TDD in my code simply from doing it so many times. 
+
+Ivan used us as a 'guinea pig' during a session to suggest that we use Local Storage, which inspired us accordingly, and for which we're truly grateful. Subsequently, we were able to add the Local Storage facility after this (I have already used Local Storage, from when I was completing the Fruit Shop Shopping Cart project as part of the application for FAC26). Each to-do item is not part of an individual object inside an overall array, with its own unique ID; a Boolean to indicate whether the user has checked the radio box to indicate that the task is done; and a description.
+
+![localstorage_screenshot](https://user-images.githubusercontent.com/52511353/202847365-9fb08f95-1a5d-4c19-b572-cfcf595c4fe2.png)
 
 ---
