@@ -40,7 +40,7 @@ We [finished the Testing project](https://github.com/fac26/todo-derek-dominicS-g
 
 My hope is that I will eventually get used to incorporating TDD in my code simply from doing it so many times. 
 
-Ivan used us as a 'guinea pig' during a session to suggest that we use Local Storage, which inspired us accordingly, and for which we're truly grateful. Subsequently, we were able to add the Local Storage facility after this (I have already used Local Storage, from when I was completing the Fruit Shop Shopping Cart project as part of the application for FAC26). Each to-do item is not part of an individual object inside an overall array, with its own unique ID; a Boolean to indicate whether the user has checked the radio box to indicate that the task is done (note that this is not the same as deleting the to-item completely); and a description.
+Ivan used us as a 'guinea pig' during a session to suggest that we use Local Storage, which inspired us accordingly, and for which we're truly grateful. Subsequently, we were able to add the Local Storage facility after this (I have already used Local Storage, from when I was completing the Fruit Shop Shopping Cart project as part of the application for FAC26). Each to-do item is not part of an individual object inside an overall array, with its own unique ID; a Boolean to indicate whether the user has checked the radio box to indicate that the task is done (note that this is not the same as deleting the to-item completely via the X on the right of each to-do task); and a description.
 
 ![localstorage_screenshot](https://user-images.githubusercontent.com/52511353/202847365-9fb08f95-1a5d-4c19-b572-cfcf595c4fe2.png)
 
