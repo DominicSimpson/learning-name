@@ -31,3 +31,9 @@ Some examples of my own:
   ```
 
 ---
+
+17/11/2022
+
+We [finished the Testing project](https://github.com/fac26/todo-derek-dominicS-georgia), involving constructing a To-Do list. I really struggled to incorporate the existing code with the TDD testing, though I did get close with the test question, "test("Can the user delete a task from the list?")". My hope is that I will eventually get used to incorporating TDD in my code simply from doing it so many times. 
+
+---
