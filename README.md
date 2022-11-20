@@ -32,6 +32,12 @@ Some examples of my own:
 
 ---
 
+Finished my mock take-home challenge, [viewable here](https://github.com/DominicSimpson/wordletest), where I have attempted to understand how a component of Wordle works - that of how it matches the input letters with the correct word. I assumed that I would have some kind of array to store the different correct words, but in the end just used one correct word, stored in a variable.
+I've never actually played Wordle before, so I had to give it a go - I got the correct word on the last try! The version we were given to 'emulate' is the [New York Times version](https://www.nytimes.com/games/wordle/index.html).
+
+---
+
+
 17/11/2022
 
 We [finished the Testing project](https://github.com/fac26/todo-derek-dominicS-georgia), involving constructing a To-Do list. I really struggled to incorporate the existing code with the TDD testing, though I did get close with the test question, "test("Can the user delete a task from the list?")". 
