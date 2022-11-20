@@ -34,6 +34,9 @@ Some examples of my own:
 
 **08/11/2022**
 ###### Finished my mock take-home challenge, [viewable here](https://github.com/DominicSimpson/wordletest), where I have attempted to understand how a component of Wordle works - that of how it matches the input letters with the correct word. I assumed that I would have some kind of array to store the different correct words, but in the end just used one correct word, stored in a variable.
+
+![screenshot](https://user-images.githubusercontent.com/52511353/202900378-cce2f2c3-7064-4b4d-8245-a2bbcaf748b8.png)
+
 ###### I've never actually played Wordle before, so I had to give it a go - I got the correct word on the last try! The version we were given to 'emulate' is the [New York Times version](https://www.nytimes.com/games/wordle/index.html).
 
 ---
