@@ -54,3 +54,8 @@ Some examples of my own:
 ![localstorage_screenshot](https://user-images.githubusercontent.com/52511353/202847365-9fb08f95-1a5d-4c19-b572-cfcf595c4fe2.png)
 
 ---
+
+24/11/2022
+
+###### I finished The Monty Hall Problem. You can see my GitHub [here](https://github.com/DominicSimpson/themontyhallproblem), with an extended ReadMe that goes deep into the legend. This includes PowerPoint presentations that I did in advance of the coding that prove that switching to another door does indeed increase your chances of getting the door that has the sports car.
+####### Coding the Monty Hall Problem was difficult, and the final version only works 50% - if you try it out and click the 'No' button (i.e. you don't want to switch to another door), it then leads (via aynchronous JavaScript) to a separate screen that informs you that you were either successful or not successful, and tells you the statistic. If you choose to switch to another door, it should *also* lead
