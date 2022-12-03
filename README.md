@@ -26,10 +26,11 @@ Some examples of my own:
 
 **06/11/2022**
 ###### I'm confused as to why adding a second true clause makes this pass on Execute Program? I have to use Reduce to write a function that returns true if all array elements are true.
-```function allTrue(values) {
+
+```js
+  function allTrue(values) {
   return values.reduce((acc, current) => acc && current, true);
   ```
-
 ---
 
 **08/11/2022**
@@ -77,15 +78,15 @@ Some examples of my own:
 ![screenshot(3)](https://user-images.githubusercontent.com/52511353/205454086-1bb0cbff-b674-4d0a-8124-641f93946b8d.png)
 ![screenshot(4)](https://user-images.githubusercontent.com/52511353/205454093-ed1a9619-c320-46ef-bcc2-306aea28e39e.png)
 
-### I reserched how to keep columns the same size online after the CSS transform method, but couldn't find anything. In the end, I moved on to another vintage poster, with the legend 'Literature and Cultural Life, October - December 1965' at the Süddeutscher Rundfunk Stuttgart (a quick Google search of the latter proved inconclusive). 
+###### I reserched how to keep columns the same size online after the CSS transform method, but couldn't find anything. In the end, I moved on to another vintage poster, with the legend 'Literature and Cultural Life, October - December 1965' at the Süddeutscher Rundfunk Stuttgart (a quick Google search of the latter proved inconclusive). 
 
 ![Flickr Photo Download- Hans Geipel- Prospekt f%FCr den S%FCddeutschen Rundfunk, 1965](https://user-images.githubusercontent.com/52511353/205454187-d151e40f-a0fd-4979-a8d2-d5c84f4965df.jpg)
 
-### And here is my attempt at full screen:
+###### And here is my attempt at full screen:
 
 ![screenshot(5)](https://user-images.githubusercontent.com/52511353/205454295-34576aef-d2da-49d4-9b23-e1b7ec374401.png)
 
-### I had a number of issues with the text once the browser window has been resized, which the ReadMe for the project goes into. Of note here is that this is the first time I have used SVGs and 'noise effects' in order to replicate the grainy, granular look of the columns. I partially succeded in reproducing the aesthetic feel of the origin - for a more in-depth exposition, my ReadMe for the project once again elaborates on this. 
+###### I had a number of issues with the text once the browser window has been resized, which the ReadMe for the project goes into. Of note here is that this is the first time I have used SVGs and 'noise effects' in order to replicate the grainy, granular look of the columns. I partially succeded in reproducing the aesthetic feel of the origin - for a more in-depth exposition, my ReadMe for the project once again elaborates on this. 
 
 ---
 
