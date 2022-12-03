@@ -71,7 +71,7 @@ Some examples of my own:
 
 ![Juni-Festwochen on Flickr - Photo Sharing!](https://user-images.githubusercontent.com/52511353/205453864-1135ada8-d046-4fee-b21f-b800c38855d2.jpg)
 
-###### However, after creating the columns and then transforming them in the CSS (so as to rotate them), I found it impossible to keep the purple columns the same length (roughly half the size of the black ones) once the browser window had been resized. As soon as I dragged the browser window across to minimise the screen, the purple columns would grow in size, as you can see with these screenshots below, so that they would be the same size as the black ones:
+###### However, after creating the columns and then transforming them in the CSS (so as to rotate them), I found it impossible to keep the purple columns the same length (roughly half the size of the black ones) once the browser window had been resized. As soon as I dragged the browser window across to minimise the screen, the purple columns would grow in size, so that they would be the same size as the black ones, as you can see with these screenshots below (the other purple columns had yet to be reduced in full screen to the right size): 
 
 ![screenshot(2)](https://user-images.githubusercontent.com/52511353/205454080-4ab1cd9a-82dc-44f3-a2b6-8dd4b9cfa8b5.png)
 ![screenshot(3)](https://user-images.githubusercontent.com/52511353/205454086-1bb0cbff-b674-4d0a-8124-641f93946b8d.png)
