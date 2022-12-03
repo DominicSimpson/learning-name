@@ -63,3 +63,13 @@ Some examples of my own:
 
 ![screenshot](https://user-images.githubusercontent.com/52511353/204393900-eae2a009-aa1d-4a32-a8b2-18d886e90d64.png)
 
+---
+
+01/12/2022
+
+###### I finished my take-home challenge for TPXImpact, which can be viewed [here](https://github.com/DominicSimpson/tpximpactapplication), and was in two parts. The first part was a mock-up attempt at replicating one from a choice of vintage graphic design poster in HTML and CSS. I initially chose this one:
+
+![Juni-Festwochen on Flickr - Photo Sharing!](https://user-images.githubusercontent.com/52511353/205453864-1135ada8-d046-4fee-b21f-b800c38855d2.jpg)
+
+
+
